@@ -1,3 +1,7 @@
+version: 1.0-b3 (October 11, 2011)
+
+	Added support for separate groups.
+
 version: 1.0-b2 (September 16, 2011)
 
 	Removed unneeded code related to grade scales

@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 version: 1.0-b3 (October 11, 2011)
 
 	Added support for separate groups.
+=======
+version: 1.0.4 (October 12, 2011)
+
+	Added support for separate groups
+>>>>>>> master
 
 version: 1.0-b2 (September 16, 2011)
 
